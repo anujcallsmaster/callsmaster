@@ -1,0 +1,4 @@
+[00:00:02.065] Server  LOG     ✓ Ready in 1355ms
+[00:00:09.929] Server  LOG     ○ Compiling / ...
+[00:00:17.820] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:44.440] Server  LOG     ✓ Compiled in 74ms
