@@ -1,0 +1,9 @@
+{
+  "title": "To get started, edit the page.js file.",
+  "description": "Looking for a starting point or more instructions?",
+  "deploy": "Deploy Now",
+  "docs": "Documentation",
+  "server-component": {
+    "welcome": "Welcome to the internationalized app!"
+  }
+}
